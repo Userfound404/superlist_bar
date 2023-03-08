@@ -16,6 +16,7 @@ script.js: The JavaScript file that implements the logic for the movable bar and
 
 ### Demo - 
 ![bar](https://user-images.githubusercontent.com/97509220/223649359-e4aaf871-d8c3-4808-b464-8d4264b2c1fb.gif)
+you can try out here - https://userfound404.github.io/superlist_bar
 
 This is originally inspired from superlist
 here is a link to it-https://www.superlist.com
